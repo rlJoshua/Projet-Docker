@@ -1,0 +1,8 @@
+Bonjour, 
+
+Je n'ai pas réussi à envoyer un mail sur mailhog. 
+Par contre l'affichage du mailhog fonctionne parfaitement.
+
+
+
+PS : mettez-moi une bonne svp !

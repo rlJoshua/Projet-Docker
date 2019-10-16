@@ -23,6 +23,9 @@ services :
       dockerfile: Dockerfile
     volumes:
       - ./app/:/var/www/html
+    ports:
+      - 8081:80
+
 
   mailhog:
     image: mailhog/mailhog
