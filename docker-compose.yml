@@ -23,8 +23,6 @@ services :
       dockerfile: Dockerfile
     volumes:
       - ./app/:/var/www/html
-    depends_on:
-      - mariadb
 
   mailhog:
     image: mailhog/mailhog
